@@ -3,7 +3,7 @@
 <img width="150" height="150" src="./images/logo.jpg" alt="Logo"/>
 </div>
 
-### ** LightKV 是一个玩具级KV数据库，无法用于生产环境！**
+### LightKV 是一个玩具级KV数据库，无法用于生产环境！
 
 ***
 
